@@ -54,7 +54,7 @@ public class  Test_Module
 		Thread.sleep(3000);
 		driver.findElement(By.xpath("//button[@class='ant-btn']")).click();
 		Thread.sleep(3000);
-		System.out.println("LogEfforts");
+		System.out.println("Log Efforts");
 		Thread.sleep(3000);
 		driver.findElement(By.xpath("//div[@title='Log Efforts']")).click();
 		Thread.sleep(3000);
